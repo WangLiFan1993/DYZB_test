@@ -56,6 +56,7 @@
 		CDBF078524C92E9F006CDB9A /* DYZB_test */ = {
 			isa = PBXGroup;
 			children = (
+				CDBF079A24C957F0006CDB9A /* Classes */,
 				CDBF078624C92E9F006CDB9A /* AppDelegate.swift */,
 				CDBF078824C92E9F006CDB9A /* SceneDelegate.swift */,
 				CDBF078A24C92E9F006CDB9A /* ContentView.swift */,
@@ -73,6 +74,61 @@
 				CDBF078F24C92EA5006CDB9A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CDBF079A24C957F0006CDB9A /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				CDBF079B24C957F0006CDB9A /* Home */,
+				CDBF079C24C957F0006CDB9A /* Tools */,
+				CDBF079D24C957F0006CDB9A /* Follow */,
+				CDBF079E24C957F0006CDB9A /* Profile */,
+				CDBF079F24C957F0006CDB9A /* Live */,
+				CDBF07A024C957F0006CDB9A /* Main */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		CDBF079B24C957F0006CDB9A /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		CDBF079C24C957F0006CDB9A /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		CDBF079D24C957F0006CDB9A /* Follow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Follow;
+			sourceTree = "<group>";
+		};
+		CDBF079E24C957F0006CDB9A /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		CDBF079F24C957F0006CDB9A /* Live */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		CDBF07A024C957F0006CDB9A /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
